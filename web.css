@@ -1,0 +1,18 @@
+*{
+    background-color: #111;
+    color: #fff;
+    box-sizing: border-box;
+}
+body{ 
+    background-color: #222;
+    color: #1b1b1b;
+}
+.posters{
+    display: flex;
+    margin: 1% 0%;
+}
+.posters .new img{
+    align-content: center;
+    margin: 0% 2%;
+}
+
